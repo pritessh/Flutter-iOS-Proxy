@@ -162,4 +162,4 @@ Core script logic by [hackcatml/frida-flutterproxy](https://github.com/hackcatml
 
 ## ⚠️ Disclaimer
 
-This tool is intended for **authorized security testing only**. Only use it against applications you own or have explicit written permission to test. Unauthorized interception of network traffic is illegal.
+This script is intended for **authorized security testing only**. Only use it against applications you own or have explicit written permission to test. Unauthorized interception of network traffic is illegal.
